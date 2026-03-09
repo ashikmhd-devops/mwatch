@@ -1,5 +1,7 @@
 # mwatch — macOS System Monitor
 
+[![Go](https://github.com/ashikmhd-devops/mwatch/actions/workflows/go.yml/badge.svg)](https://github.com/ashikmhd-devops/mwatch/actions/workflows/go.yml)
+
 A fast, modern terminal resource monitor for macOS. Built with Go + Bubble Tea + Lip Gloss.
 
 ```
